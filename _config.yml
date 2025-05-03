@@ -1,9 +1,3 @@
-title: Gunhui’s Blog
-
-author:
-  name: Park Gunhui
-  email: gunhui@kakao.com
-
 remote_theme: jekyll/minima
 
 plugins:
@@ -12,3 +6,9 @@ plugins:
 
 minima:
   skin: auto
+
+title: Gunhui’s Blog
+
+author:
+  name: Park Gunhui
+  email: gunhui@kakao.com
