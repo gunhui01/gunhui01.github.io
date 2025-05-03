@@ -7,11 +7,9 @@ plugins:
 minima:
   skin: auto
 
+hide_site_feed_link: true
+
 title: Gunhui’s Blog
 
 author:
   email: gunhui@kakao.com
-
-social_links:
-  - icon: github
-    url: https://github.com/gunhui01
