@@ -12,4 +12,6 @@ title: Gunhui’s Blog
 author:
   email: gunhui@kakao.com
 
-hide_site_feed_link: true
+social_links:
+  - icon: github
+    url: https://github.com/gunhui01
