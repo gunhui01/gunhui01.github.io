@@ -1,7 +1,14 @@
 title: Gunhui’s Blog
+
+author:
+  name: Park Gunhui
+  email: gunhui@kakao.com
+
 remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
 minima:
   skin: auto
